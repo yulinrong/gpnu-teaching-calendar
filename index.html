@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>教学日历订阅</title>
+  <style>
+    body { margin: 0; font-family: "PingFang SC", "Microsoft YaHei", sans-serif; background: #f4f5f7; color: #1f2329; }
+    main { max-width: 40rem; margin: 0 auto; padding: 32px 18px 48px; }
+    h1 { font-size: 1.6rem; margin: 0 0 8px; }
+    p { line-height: 1.55; }
+    code, a { word-break: break-all; }
+    ol { padding-left: 1.2rem; }
+    li { margin: 8px 0; }
+    .box { background: #fff; border: 1px solid #e5e7eb; border-radius: 12px; padding: 14px 16px; }
+  </style>
+</head>
+<body>
+  <main>
+    <h1>教学日历</h1>
+    <p>iPhone 用下面的地址订阅。课表改了并重新发布之后，手机会在苹果下次拉取时更新。订阅日历是只读的。</p>
+    <div class="box">
+      <p><a id="webcal" href="webcal://yulinrong.github.io/gpnu-teaching-calendar/calendar.ics">用日历 App 打开</a></p>
+      <p>订阅地址<br><code id="https">https://yulinrong.github.io/gpnu-teaching-calendar/calendar.ics</code></p>
+    </div>
+    <h2>iPhone</h2>
+    <ol>
+      <li>设置 → 日历 → 账户 → 添加账户 → 其他 → 添加已订阅的日历。</li>
+      <li>粘贴上面的 https 地址，下一步，存储。</li>
+      <li>日历 App 里勾选「教学日历」。</li>
+    </ol>
+    <p>时区是北京时间。假日停课没有写进去，调课补课写在补课那天。</p>
+  </main>
+</body>
+</html>
