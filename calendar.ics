@@ -1350,12 +1350,15 @@ DTSTART;TZID=Asia/Shanghai:20261112T083000
 DTEND;TZID=Asia/Shanghai:20261112T100500
 SUMMARY:留学生辅导 · MKTG5001
 LOCATION:腾讯会议 230-822-020
-DESCRIPTION:08:30–10:05 腾讯会议；讲完 exam discussion + 压题\nU
- Syd MKTG5001 线上辅导。会议号 230-822-020；链接 https://meeting
- .tencent.com/dm/BP4FODeacDkm。材料：任务包 archives/accounts/quanta
- girl/tasks/2026-11-08__01_改稿/交付/，课次 courses/2026-09-05-5001A
- /exam-prep-2026-11-12/。\n来源：微信 quantagirl · Missww\n已写入
- 教学日历与 ICS\nhttps://meeting.tencent.com/dm/BP4FODeacDkm
+DESCRIPTION:08:30–10:05；先讲完课件 Written Report & Exam Discussio
+ n，再考试重点压题\nUSyd MKTG5001 线上辅导（约 1.5h）。① 
+ 讲完课件 MKTG5001 - written report and exam discussion-3.pptx（含 2B
+  报告框架 + 考试结构）；② 按考试要求压题带练。会议
+ 号 230-822-020；https://meeting.tencent.com/dm/BP4FODeacDkm。材料：a
+ rchives/accounts/quantagirl/tasks/2026-11-08__01_改稿/；课次 courses/
+ 2026-09-05-5001A/exam-prep-2026-11-12/。\n来源：微信 quantagirl · M
+ issww\n已写入教学日历与 ICS\nhttps://meeting.tencent.com/dm/BP4FOD
+ eacDkm
 END:VEVENT
 BEGIN:VEVENT
 UID:wr-special-2026-11-25-amac-ticket@gpnu-teaching
